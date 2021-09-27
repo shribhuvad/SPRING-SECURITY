@@ -1,0 +1,13 @@
+spring :
+       security :
+                user : 
+                   name : shri
+                   
+                password : shri   
+                
+                
+
+server:
+         port:  8091                      
+                           
+                                          
