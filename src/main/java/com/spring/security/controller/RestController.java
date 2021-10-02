@@ -17,6 +17,7 @@ public class RestController {
 	
 	@GetMapping("/user")
 	String getUser() {
+		System.out.println("getUser STARTED");
 		return "Welcome";
 	}
 }
